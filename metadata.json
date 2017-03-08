@@ -1,12 +1,12 @@
 {
-  "name": "npwalker/pdb_3323_workaround",
+  "name": "puppetlabs/pdb_3323_workaround",
   "version": "0.5.0",
-  "author": "npwalker",
+  "author": "puppetlabs",
   "summary": "A puppet module to create an index that provides a short-term workaround to PDB-3323",
   "license": "Apache-2.0",
-  "source": "https://github.com/npwalker/pdb_3323_workaround",
-  "project_page": "https://github.com/npwalker/pdb_3323_workaround",
-  "issues_url": "https://github.com/npwalker/pdb_3323_workaround/issues",
+  "source": "https://github.com/puppetlabs/pdb_3323_workaround",
+  "project_page": "https://github.com/puppetlabs/pdb_3323_workaround",
+  "issues_url": "https://github.com/puppetlabs/pdb_3323_workaround/issues",
   "dependencies": [],
   "operatingsystem_support": [
     {
