@@ -1,6 +1,6 @@
 {
-  "name": "puppetlabs/puppetlabs-pdb_3323_workaround",
-  "version": "1.0.0",
+  "name": "puppetlabs/pdb_3323_workaround",
+  "version": "1.0.1",
   "author": "puppetlabs",
   "summary": "A puppet module to create an index that provides a short-term workaround to PDB-3323",
   "license": "Apache-2.0",

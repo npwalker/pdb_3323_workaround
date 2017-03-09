@@ -1,7 +1,7 @@
 # How to use
 
 Classify the node running PostgreSQL in your PE deployment with the
-pdb_3323_workaround class.
+`pdb_3323_workaround` class.
 
 The next time the puppet agent runs on that node you should see the following change.
 
